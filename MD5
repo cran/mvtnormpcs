@@ -1,0 +1,5 @@
+fb3bedae8b7752c0b16e325b22308665 *DESCRIPTION
+cba4ebce0cca5ac07a549e6038f32aed *R/mvtnormpcs.R
+97d81f0a15061b97927ba2772f6980f7 *man/mvnprd.Rd
+f7272e29758eae5f27e62fb6f43ea6a0 *man/mvstud.Rd
+1203f02f6349d84ab1f5e69051b574df *src/mvtnorm_dunnett.f
